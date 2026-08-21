@@ -16,6 +16,23 @@ If you don't have the necessary software installed to run IPython Notebook, don'
 
 For example, if you want to view the notebook in the `wheres-waldo-path-optimization` directory, copy the [full link](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/wheres-waldo-path-optimization/Where's%20Waldo%20path%20optimization.ipynb) to the notebook then paste it into [nbviewer](http://nbviewer.ipython.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/wheres-waldo-path-optimization/Where%27s%20Waldo%20path%20optimization.ipynb).
 
+## Usage
+
+You can get started by exploring the example data science notebook.
+
+### Example
+
+Open the [Example Machine Learning Notebook](example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb) to see a complete example using the Iris dataset.
+
+The notebook demonstrates common steps in a data science workflow, including:
+
+* Loading and exploring data
+* Visualizing the dataset
+* Training a machine learning model
+* Evaluating the model
+
+You can also explore the other project directories for additional data analysis and machine learning examples.
+
 ## License
 
 ### Instructional Material
@@ -33,14 +50,21 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 Under the following terms:
 
-* **Attribution**—You must give appropriate credit (mentioning that your work is derived from work that is © Randal S. Olson and, where practical, linking to http://www.randalolson.com/), provide a [link to the license](https://creativecommons.org/licenses/by/4.0/), and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* **Attribution**—You must give appropriate credit (mentioning that your work is derived from work that is © Randal S. Olson and, where practical, linking to http://www.randalolson.com/), provide a [link to the license](https://creativecommons.org/licenses/by/4.0/), and indicate if changes were made. You may do so in any reasonable manner, including:
+
+  * Linking to the original work
+  * Mentioning that your work is derived from Randal S. Olson's work
+  * Indicating that changes were made
+
+You may not do so in any way that suggests the licensor endorses you or your use.
 
 **No additional restrictions**—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 **Notices:**
 
 * You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-* No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+* No warranties are given. The examples above do not limit the license terms.
+* For example, publicity, privacy, or moral rights may affect your use of the material.
 
 ### Software
 
